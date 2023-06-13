@@ -6,8 +6,8 @@
 
 ### Hi there 👋
 
- ---🔭 I’m currently working on something cool in Java
- ---🌱 I’m currently learning Java, Hibernate and Spring
+🔭 I’m currently working on something cool in Java -->
+🌱 I’m currently learning Java, Hibernate and Spring -->
 
 <!--
 **Paszu94/Paszu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
