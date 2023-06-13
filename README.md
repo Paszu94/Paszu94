@@ -6,7 +6,7 @@
 
 ### Hi there 👋<br />
 
-🔭 I’m currently working on something cool in Java <br />
+🔭 I’m currently working on something cool in Java __
 🌱 I’m currently learning Java, Hibernate and Spring <br />
 
 <!--
