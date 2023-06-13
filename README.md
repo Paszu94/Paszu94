@@ -1,7 +1,13 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 ### Hi there 👋
 
- 🔭 I’m currently working on something cool in Java
- 🌱 I’m currently learning Java, Hibernate and Spring
+ -🔭 I’m currently working on something cool in Java
+ -🌱 I’m currently learning Java, Hibernate and Spring
 
 <!--
 **Paszu94/Paszu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
