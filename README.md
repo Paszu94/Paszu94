@@ -4,7 +4,7 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture> -->
 
-### Hi there 👋<br />
+### Hello there 👋<br />
 
 🔭 I’m currently working on something cool in Java <br />
 🌱 I’m currently learning Java, Hibernate and Spring <br />
